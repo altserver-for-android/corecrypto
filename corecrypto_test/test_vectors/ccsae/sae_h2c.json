@@ -1,0 +1,125 @@
+{
+    "generatorVersion": "0.1",
+    "algorithm": "SSWU_H2C",
+    "notes": {},
+    "numberOfTests": 10,
+    "header": [],
+    "testGroups": [
+        {
+            "curve": 256,
+            "hkdf": 256,
+            "tests": [
+                {
+                    "tcId": 0,
+                    "ssid": "2859aa7b9483ab4387f6fa8818adecba",
+                    "password": "d2fa1099b679f947513a8251c57018c3",
+                    "identifier": "8b68f3c8d85cdd5959fa4d0e2c1b9be1",
+                    "staA": "169526427114",
+                    "staB": "27ed2ab31458",
+                    "PT": "04e7500a77a0e2dda7de9128f2e9778cfe1dbe8a8899839656b16a95fd3388fbbb71cf8f720d22ac68186a570071dbb04fe035c69f84167f0c674e193cefc520ae",
+                    "PWE_x": "38400f01b7b80e427f03970b308d76a6274a2570d23868ad64536c003bdddcc9",
+                    "PWE_y": "fb50fe1867c8468e130141c70ddbf3fb0d223552c19844015457afe3ac43a1be"
+                },
+                {
+                    "tcId": 1,
+                    "ssid": "fe323cb998a3f46b9f5a7a96b4215c52",
+                    "password": "eb24d34f4ea2d6ea25a27cfe8e105442",
+                    "identifier": "6a528bcc4a320791f76182b0e1b05576",
+                    "staA": "8301adbb60e8",
+                    "staB": "329dd2c9e1fd",
+                    "PT": "04ae10ebb4ed44bcc2d9bc822c7c301a41a23e02cd4b7d53aa88823adbd3ef3429ee7c2c5d5a57b53c5162b1b1dc8f502e499115b9a6760f3a4ecbe8ee6e0c33e5",
+                    "PWE_x": "54c5bbcfa0160b17e39ade16a27e5d3ab7f0268cb73226a932df96ddc15bf85a",
+                    "PWE_y": "c3aa5067d68d173bde6ffd4fe212f98f1fb64d0d6fdcec96d954d9f140117ec3"
+                },
+                {
+                    "tcId": 2,
+                    "ssid": "a65314f8809015260d7fdcad12c30f34",
+                    "password": "90c1fc1d1a93c23b688c157b4ea40c4e",
+                    "identifier": "e10445bfb7df6192da075501b931dcc4",
+                    "staA": "4458049cf5d0",
+                    "staB": "c3c1b539e4eb",
+                    "PT": "040b8c30cf7ba746e02775d76474e755413bc0cad30a286f02139f5b169a1a361b2beed600b2bfe3ab520f8bcf771e89758b6a38f1e26bd3a8909f0681d87600ce",
+                    "PWE_x": "37a5b054e087a1caf376108eb714a3c8af63312aecb188aa506c6d9005f5d53a",
+                    "PWE_y": "5be6cc1460484921f782e54e4e3e0f80f98c941896e7a1f4b2df28842019613d"
+                },
+                {
+                    "tcId": 3,
+                    "ssid": "7b04a693c4c426bc55ef6c6ce75af462",
+                    "password": "b8753ba891a8a25cb7d006a33c69bd8d",
+                    "identifier": "86c0a00bc4a6d6d170b2f694a4c35f22",
+                    "staA": "9f2d21e76c91",
+                    "staB": "346259330111",
+                    "PT": "042e10a30ea86ce404b2e6574fc48ef7473491257056ba61461242d53c76ec5111bea96e862e341be6e7b5f637b78086c441366be6f2a00b62bc673413a368c2a5",
+                    "PWE_x": "2ec88e1a4d9c1682fd29c4bb43b86b7eba0436c8e2ee890248ddf19a493ff473",
+                    "PWE_y": "bf885c1a6f89bd32fa8aa29c875e6088c44fdf91dbe7805f13531fa92faac0f4"
+                },
+                {
+                    "tcId": 4,
+                    "ssid": "10bd7cb18c3af10165ae8e1962262983",
+                    "password": "2e3cf5ba4795a6472691d66f5a9a4654",
+                    "identifier": "f534a30e02c377dce646f9809d1841fc",
+                    "staA": "dbcc617327f6",
+                    "staB": "502786628dd3",
+                    "PT": "04d88cb45f325a9823e025d3a4ed966732ce5b5a5d6b60ff610ea0ed27d628a346a60602aaca99395a39ad82354f443f22074847890d9677efdb27c17c47147450",
+                    "PWE_x": "a6ecaebd9ebf0278c57fae1ad1ec68f38e18a0d230f257122494c2db5d82b8d3",
+                    "PWE_y": "3f271a834b17f96cbe96f48626e0b9d6108625cf13d7953fd0c53ebebf9449e4"
+                },
+                {
+                    "tcId": 5,
+                    "ssid": "bb7f3721e6585fe250426804cd678710",
+                    "password": "0b82c38b4b22c993366447133d307097",
+                    "identifier": "da204f8f7b1d93213c6ad6ebadea3c4e",
+                    "staA": "d2249ac154ee",
+                    "staB": "a6aef78ae494",
+                    "PT": "04bbb57879b766d65fb4bd451e9835b5ed97e01b098a0418a5db661f47137d63891feeff69edfc540cb8e94961d755a9a4066345ca4e96cdbf2675f72e098ea658",
+                    "PWE_x": "95b649a464e73cbd7b02c74b985f92156264554825c6cf6b2b5cdc8e4f9359eb",
+                    "PWE_y": "fa4f1a968dd47eb19bbecab76a6e7688d5aa1bc44b89d620d234f7df5630cf11"
+                },
+                {
+                    "tcId": 6,
+                    "ssid": "2911ca5f0f834202d9e140c14536d9c9",
+                    "password": "10b7cc73d6fc1272b2b34ec047d251b9",
+                    "identifier": "8e72891155c78e13e788beef90ecd6cf",
+                    "staA": "48f51d85799d",
+                    "staB": "5f01f55737db",
+                    "PT": "042578f9cb01f0c32d6a131c2d9a04612b24d4f69b21ea6419b944cb6038391526c4d7a6537d8fffdd281deb8cb52592e1684110308357b4737f7c56ecbdac5fe0",
+                    "PWE_x": "531b8babdd30d82a31074d6f9a90c7abae0f2279b89acce0c5cae70127496c27",
+                    "PWE_y": "f41660996e37f43017621f0c2303cc702c6cf7964e1559f5f9634b038def133c"
+                },
+                {
+                    "tcId": 7,
+                    "ssid": "1059f60945ceff63d93e6f459004354e",
+                    "password": "c400294414ba3d3b7072e6974946dd26",
+                    "identifier": "80406040ceff8c47369aed7d98c3bf20",
+                    "staA": "96a6a8b81b0d",
+                    "staB": "4f01a300ea54",
+                    "PT": "0477ee57a9fee0eff5265703dd02328b660b8947fbc24dace1f4acf1130e461ea8f796c161db479efcd557c0d3efe5d6a7f9ac139575b37d2afc1e7d41f9ca77a7",
+                    "PWE_x": "7eb5960733e0ef3df92b16fc3a323a2b4fde0647f1405b8362225ebd40175d42",
+                    "PWE_y": "5e4041f8b4e828505270cb8e174da20487fed877ca71c6551a67bf6748dffff2"
+                },
+                {
+                    "tcId": 8,
+                    "ssid": "6e816f0a92ae385188f606bdd1ba367b",
+                    "password": "5f87679aa486e450d1bc52f6976b5896",
+                    "identifier": "a2c656c30dd90ebf9573c761fc70fd70",
+                    "staA": "a46c3affd969",
+                    "staB": "c4b26271ab89",
+                    "PT": "048089fbb8d5c83fb2672d490071b7d87ce73522c90ea2592f4d6fd9e168a3574242fb7e7a1c01e275cc61f1c6c9feed129e9e0f9fa836bd4ec63e21e4d7c24dab",
+                    "PWE_x": "d7552e528bc122dab79f2d739054ac6b8f399f3bf90438af6d65019b78a715a6",
+                    "PWE_y": "c40e1749184fc1346edbcb944144424f683379dc6647ac3c3ea1e00f01b2bc5e"
+                },
+                {
+                    "tcId": 9,
+                    "ssid": "c63a1989666566eceeb9db4b63f2149c",
+                    "password": "d011221b73a0e1975668c8486849cec6",
+                    "identifier": "7a9622901b6432e4d4ef2dce1837e97b",
+                    "staA": "b08a19591cb2",
+                    "staB": "dfc145a5162f",
+                    "PT": "0407fca4d7c94ef0884f0330a55ac33b9dcfab3dceeca346540f41514728164dad129e03c753e9194e2148c4f160a0b4f5be507f392ae53d7b2ecb8790730769fd",
+                    "PWE_x": "8383ad9508c12137d6a5cff7eecc4126c9955e4998b4d56b2293061491dd7791",
+                    "PWE_y": "393a864edc3c90e37ea1a2ad150408285c309c63afd52552dec45dee74bbcdf"
+                }
+            ]
+        }
+    ]
+}
