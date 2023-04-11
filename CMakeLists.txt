@@ -26,7 +26,7 @@ include(CoreCryptoSources.cmake)
 # For code coverage, we use the code-coverage.cmake script from
 # https://github.com/StableCoder/.
 #
-include(scripts/code-coverage.cmake)
+#include(scripts/code-coverage.cmake)
 
 #
 # Build Macros and Targets
@@ -69,7 +69,7 @@ set_property(
 set(CC_C_OPTIONS -DBUILDKERNEL=0 -Wundef -Wcast-qual
                  -Wno-error=deprecated-declarations $<$<CONFIG:Debug>:-Werror>)
 add_compile_options("$<$<COMPILE_LANGUAGE:C>:${CC_C_OPTIONS}>")
-add_code_coverage() # Adds instrumentation to all targets
+#add_code_coverage() # Adds instrumentation to all targets
 
 # System dependencies
 find_package(UnixCommands REQUIRED) # For ${BASH}
